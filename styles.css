@@ -70,7 +70,7 @@ li {
 }
 
 .text--purple {
-  color: #6030b1;
+  color: #2B5644;
 }
 
 h1 {
@@ -109,7 +109,7 @@ nav {
 }
 
 .nav__link--anchor-primary {
-  background-color: #6030b1;
+  background-color: #2B5644;
   padding: 8px 20px;
   border-radius: 50px;
   color: white;
@@ -117,7 +117,7 @@ nav {
 }
 
 .nav__link--anchor-primary:hover {
-  background-color: #5d3eff;
+  background-color: #66867B;
 }
 /* 
 .personal__logo {
